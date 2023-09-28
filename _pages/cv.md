@@ -3,57 +3,29 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, Computational Biomedicine, summa cum laude, Heidelberg University, Faculty of Biosciences, 2023
+* Specialist, Applied Statistics, summa cum laude, UNAM, IIMAS, 2018
+* B.Sc, Genomics, summa cum laude, UNAM, CCG-IBT, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-present: Heidelberg University and Heidelberg University Hospital, Institute for Computational Biomedicine
+  * Supervisor: [Prof. Dr. Julio Saez-Rodriguez](https://saezlab.org/)
+  * Integrative computational analysis of bulk, single cell, and spatial transcriptomics in the context of human cardiovascular diseases. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2017: University of Florida, Microbiology and Cell Science Department 
+  * Supervisor: [Prof. Dr. Ana Conesa](http://conesalab.org/)
+  * Multiomics computational analysis of longitudinal data of patients with Type I diabetes.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2015-2016: RWTH Aachen University, Joint Research Center for Computational Biomedicine 
+  * Supervisor: [Prof. Dr. Julio Saez-Rodriguez](https://saezlab.org/)
+  * Combined functional transcriptomic approaches with large-scale drug screenings from cancer cell lines, to identify the mode of action of drugs, and/or to predict which drugs are going to be effective on which type of tumours or patients.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2014-2015: National Autonomous University of Mexico, Center for Genomic Sciences, Evolutionary Genomics Program
+  * Supervisor: [Asst.Prof. Dr. Julio Augusto Freyre-Gonzalez](http://freyrelab.org/en/)
+  * Analyzed and compared bacterial regulatory networks by integrating large-scale expression data sets with topological information
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
