@@ -22,5 +22,5 @@ What not to expect:
 ======
 For the same reasons above, here I don't mean to represent:
 
-1. Classic science communication (I will write about science, but related to my current work) \n
+1. Classic science communication (I will write about science, but related to my current work)
 2. Opinions of anyone except me. Any writing here does not represent my current academic affiliation, collaborators, or mentors.

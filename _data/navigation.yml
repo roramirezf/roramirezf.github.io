@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Music"
+    url: /music/
+
   - title: "Talks"
     url: /talks/    
 
