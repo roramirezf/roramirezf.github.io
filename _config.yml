@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ricardo Omar Ramirez Flores"
   avatar           : "Rico.png"
-  bio              : "Computational Biologist interested in studying multicellularity with multiscale -omics data"
+  bio              : "Computational Biologist interested in studying multicellularity with -omics data. Music, philosophy, and just the joy of learning."
   location         : "Heidelberg, Germany"
   employer         :
   pubmed           : 
@@ -222,7 +222,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
