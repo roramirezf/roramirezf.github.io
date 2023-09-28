@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rico Ramirez"
+title                    : "Rico's blog"
 title_separator          : "-"
-name                     : &name "Ricardo O. Ramirez Flores"
+name                     : &name "Ricardo O. Ramirez Flores, PhD"
 description              : &description "Computational Biologist interested in studying multicellularity with multiscale -omics data"
 url                      : https://roramirezf.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ricardo Omar Ramirez Flores"
-  avatar           : "profile.png"
+  avatar           : "Rico.png"
   bio              : "Computational Biologist interested in studying multicellularity with multiscale -omics data"
   location         : "Heidelberg, Germany"
   employer         :
