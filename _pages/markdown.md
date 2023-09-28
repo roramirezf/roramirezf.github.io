@@ -1,6 +1,6 @@
 ---
 permalink: /music/
-title: "Music"
+title: "Music curation"
 author_profile: true
 redirect_from: 
   - /md/
